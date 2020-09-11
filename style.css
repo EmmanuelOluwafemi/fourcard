@@ -10,6 +10,7 @@ body{
 .wrapper{
     max-width: 1440px;
     margin: 0 auto;
+    margin-bottom: 70px;
 }
 
 header{
@@ -55,7 +56,7 @@ header p{
     font-size: 1.33rem;
     box-shadow: 0 8px 18px 3px rgba(0, 0, 0, 0.13);
     box-sizing: border-box;
-    background: hsl(0, 0%, 98%);
+    background: #ffffff;
 }
 
 .card-container .card.card-cyan{
